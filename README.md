@@ -2,7 +2,7 @@
  This is Emmanouil , but feel free to call me Manos.
 
  
- | Data Analytics Engineering | BI | NLP | Business Development | Music Industry | Education |
+ ## | Data Analytics Engineering | BI | NLP | Business Development | Music Industry | Education |
 
  - 🔭 I’m currently working on Data Engineering cloud based projects with NLP language models
  - 🌱 I’m currently learning Big Data , AI and Social Network Analytics
