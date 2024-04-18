@@ -5,7 +5,8 @@
  ## | Data Analytics Engineering | BI | NLP | Business Development | Music Industry | Education |
 
  - 🔭 I’m currently working on Data Engineering cloud based projects with NLP language models
- - 🌱 I’m currently learning Big Data , AI and Social Network Analytics
+ - 🌱 I’m currently learning Big Data , AI , Social Network Analytics & Business Processes 
+ - 🤔 I’m looking for help with Data Management - Governance and Business Analytics
  - 😄 Pronouns: He/Him
 
 
