@@ -1,5 +1,11 @@
-### Hi there 👋
-[![Header](https://i.ibb.co/t3dNhmy/143935322-469960274409864-2694683605876867031-n.jpg"Header")](https://some-url.dev/)
+### Hola 👋
+ This is Emmanouil , but feel free to call me Manos.
+ | Data Analytics Engineering | BI | NLP | Business Development | Music Industry | Education |
+
+ - 🔭 I’m currently working on Data Engineering cloud based projects with NLP language models
+ - 🌱 I’m currently learning Big Data , AI and Social Network Analytics
+ - 😄 Pronouns: He/Him
+
 
 <!--
 **ManosCoffee/ManosCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
